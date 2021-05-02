@@ -1,0 +1,30 @@
+body {
+  background-color: palegoldenrod;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+p {
+  font-size: 18px;
+  margin: 5px 40px;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0px 25px;
+}
+
+img {
+  border: 1px solid purple;
+  margin-bottom: 50px;
+}
+
+.email {
+  margin: 0px 0px;
+}
